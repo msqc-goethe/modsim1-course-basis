@@ -1,0 +1,8 @@
+octave
+octave-symbolic
+octave-miscellaneous
+gnuplot
+ghostscript
+texlive-xetex
+texlive-fonts-recommended
+texlive-plain-generic

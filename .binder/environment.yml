@@ -1,0 +1,7 @@
+name: ModSimCourse
+channels:
+  - conda-forge
+dependencies:
+  - octave_kernel
+  - sympy
+  - xeus-cling  
