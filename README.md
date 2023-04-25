@@ -9,3 +9,8 @@ Dies sind die Online-Unterlagen zu der Veranstaltung
 
 * Der lässt sich [in der Cloud](https://mybinder.org/v2/gh/msqc-goethe/modsim1/HEAD) mittels `binder` starten. 
 * Das zugehörige [git-Repository](https://github.com/msqc-goethe/modsim1) ermöglicht es, auch am eigenen Rechner zu arbeiten.
+
+
+Dieser Ordner enhält folgende Beispiele:
+
+* Ein einfaches [SIR-Modell](beispiel02-anwendungen).
