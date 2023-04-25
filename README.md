@@ -20,8 +20,8 @@ Dies sind die Online-Unterlagen zu der Veranstaltung
 
 ## Beispiele zu partiellen Differentialgleichungen
 
-* Diskretisierung mit [finite Differenzen](beispiel06-fd)
-* Diskretisierung mit [finiten Elementen](beispiel07-fem)
+* [Finite Differenzen](beispiel06-fd)
+* [Finite Elementen](beispiel07-fem)
 
 ## Sonstiges
 * [Kleinste Quadrate und Gauß-Newton-Verfahren](beispiel08-regression)
