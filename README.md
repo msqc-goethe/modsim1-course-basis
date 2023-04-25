@@ -13,4 +13,5 @@ Dies sind die Online-Unterlagen zu der Veranstaltung
 
 Dieser Ordner enhält folgende Beispiele:
 
-* Ein einfaches [SIR-Modell](beispiel02-anwendungen).
+* Ein einfaches[SIR-Modell] zur Motivation (beispiel01-warmup)
+* Einführung von [SIR-Einschrittverfahren](beispiel02-einschrittverfahren).
