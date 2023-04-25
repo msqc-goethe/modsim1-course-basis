@@ -10,13 +10,18 @@ Dies sind die Online-Unterlagen zu der Veranstaltung
 * Das zugehörige [git-Repository](https://github.com/msqc-goethe/modsim1-course-basis) ermöglicht es, auch am eigenen Rechner zu arbeiten.
 * Der Kurs lässt sich [in der Cloud](https://mybinder.org/v2/gh/msqc-goethe/modsim1-course-basis/HEAD) mittels `binder` starten. 
 
-Dieser Ordner enhält folgende Beispiele:
+## Beispiele zu gewöhnlichen Differentialgleichungen
 
 * Einführendes [SIR-Modell](beispiel01-warmup) zur Motivation 
 * Einführung von [Einschrittverfahren](beispiel02-einschrittverfahren)
 * Eine Visualisierung zur [Taylorentwicklung](beispiel03-taylor)
 * Eine Implementierung des [Hodgkin-Huxley-Modells](beispiel04-hodgkin-huxley)
 * Die Stabilität von Gleichgewichten und die [matrixwertige Exponentialfunktion](beispiel05-matrix-exponential)
+
+## Beispiele zu partiellen Differentialgleichungen
+
 * Diskretisierung mit [finite Differenzen](beispiel06-fd)
 * Diskretisierung mit [finiten Elementen](beispiel07-fem)
 
+## Sonstiges
+* [Kleinste Quadrate und Gauß-Newton-Verfahren](beispiel08-regression)
