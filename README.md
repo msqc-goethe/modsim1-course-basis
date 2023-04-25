@@ -14,7 +14,7 @@ Dieser Ordner enhält folgende Beispiele:
 
 * Einführendes [SIR-Modell](beispiel01-warmup) zur Motivation 
 * Einführung von [SIR-Einschrittverfahren](beispiel02-einschrittverfahren)
-* Eine Visualisierung zur Taylorentwicklung [SIR-Einschrittverfahren](beispiel03-taylor)
+* Eine Visualisierung zur [Taylorentwicklung](beispiel03-taylor)
 * Eine Implementierung des [Hodgkin-Huxley-Modells](beispiel04-hodgkin-huxley)
-* Die [matrixwertige Exponentialfunktion](beispiel05-matrix-exponential)
+* Die Stabilität von Gleichgewichten und die [matrixwertige Exponentialfunktion](beispiel05-matrix-exponential)
 
